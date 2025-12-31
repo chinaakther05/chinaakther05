@@ -60,5 +60,6 @@ My goal is to continuously improve my skills and contribute to real-world projec
 
 ## 📫 Contact Me
 - Email: chinaakther05@gmail.com  
-- GitHub: [https://github.com/sohag8906](https://github.com/sohag8906)  
+- GitHub: [https://github.com/chinaakther05](https://github.com/chinaakther05)  
+- LinkedIn: [China Akther](https://www.linkedin.com/in/china-akther-a384b23a2/)
 
