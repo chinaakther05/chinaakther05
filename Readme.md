@@ -42,12 +42,10 @@ My goal is to continuously improve my skills and contribute to real-world projec
 ---
 
 ## 📂 Projects
-- [Smart Home Client](https://github.com/sohag8906/smart-home-client) – MERN stack smart home application  
-- [Book Haven Client](https://github.com/sohag8906/book-haven-client2) – Online book store client project  
-- [Warmpaws Pet Care](https://github.com/sohag8906/warmpaws-pet-care-in-winter) – Pet care service project  
+- [Smart Home Client](https://github.com/chinaakther05/smart-home-client) – MERN stack smart home application  
+- [Book Haven Client](https://github.com/chinaakther05/book-haven-client2) – Online book store client project  
+- [Problem Will Never Last Forever](https://github.com/chinaakther05/problem-will-never-last-forever) – MERN project
 
-
----
 ## 📊 GitHub Analytics
 
 <p align="center">
