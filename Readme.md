@@ -51,9 +51,10 @@ My goal is to continuously improve my skills and contribute to real-world projec
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohag8906&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag8906&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinaakther05&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinaakther05&layout=compact&theme=radical" width="48%" />
 </p>
+
 
 ---
 
