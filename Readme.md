@@ -46,12 +46,17 @@ My goal is to continuously improve my skills and contribute to real-world projec
 - [Book Haven Client](https://github.com/chinaakther05/book-haven-client2) – Online book store client project  
 - [Problem Will Never Last Forever](https://github.com/chinaakther05/problem-will-never-last-forever) – MERN project
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chinaakther05&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinaakther05&layout=compact&theme=radical" width="48%" />
 </p>
+
+
+---
+
 
 
 ---
