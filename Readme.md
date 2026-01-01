@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF5733&width=1200&lines=China+Akther)
 
 <!-- Typing Effect Title -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=06B6D4&width=1200&lines=Full-Stack+MERN+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=06B6D4&width=1200&lines=Full-Stack+Developer)
 
 
 
