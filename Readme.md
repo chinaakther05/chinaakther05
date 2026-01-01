@@ -11,10 +11,11 @@
 
 
 
-## 💻 About Me
-I am a student and a Full-Stack Developer from Dhaka, Bangladesh.  
-I enjoy building responsive web pages, APIs, and learning modern web technologies.  
-My goal is to continuously improve my skills and contribute to real-world projects.
+💻 About Me
+
+I am a student and aspiring Full-Stack Developer from Dhaka, Bangladesh 🇧🇩
+I enjoy building responsive web applications, developing APIs, and learning modern web technologies.
+I am continuously improving my skills and working on real-world projects to grow as a developer.
 ---
 
 ## 🛠 Skills
