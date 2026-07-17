@@ -71,40 +71,50 @@ I love building modern, responsive, and scalable web applications using the late
 
 <div align="center">
 
-<a href="https://github.com/chinaakther05/smart-home-client">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinaakther05&repo=smart-home-client&theme=tokyonight&hide_border=true"/>
-</a>
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/chinaakther05/book-haven-client2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinaakther05&repo=book-haven-client2&theme=tokyonight&hide_border=true"/>
-</a>
+### 🏠 Smart Home
+A modern smart home management platform with real-time device control, automation, and user-friendly dashboard.
 
-<a href="https://github.com/somrat350/Dash-Chat">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chinaakther05&repo=problem-will-never-last-forever&theme=tokyonight&hide_border=true"/>
-</a>
+🔗 **Live Demo:** [https://your-smart-home-live-link.com](https://whimsical-gumdrop-90fcbc.netlify.app/)
+
+📁 **Repository:** https://github.com/chinaakther05/smart-home-client
+
+<img src="https://i.ibb.co/BVjn7zVx/Screenshot-102.png" alt="Smart Home" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+### 📚 Book Haven
+An online book discovery and management platform where users can explore, review, and manage books efficiently.
+
+🔗 **Live Demo:** [https://your-book-haven-live-link.com](https://astonishing-parfait-83d6d0.netlify.app/)
+
+📁 **Repository:** https://github.com/chinaakther05/book-haven-client2
+
+<img src="https://i.ibb.co/WNK0XtZ8/Screenshot-103.png" alt="Book Haven" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chinaakther05&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=chinaakther05&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinaakther05&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-<br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=chinaakther05&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=chinaakther05&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chinaakther05&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
-
 ---
 
 # 🌐 Connect With Me
