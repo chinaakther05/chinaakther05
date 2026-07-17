@@ -76,9 +76,9 @@ I love building modern, responsive, and scalable web applications using the late
 <td width="50%">
 
 ### 🏠 Smart Home
-A modern smart home management platform with real-time device control, automation, and user-friendly dashboard.
+A modern smart home management platform with real-time device control, automation, and a user-friendly dashboard.
 
-🔗 **Live Demo:** [https://your-smart-home-live-link.com](https://whimsical-gumdrop-90fcbc.netlify.app/)
+🔗 **Live Demo:** https://whimsical-gumdrop-90fcbc.netlify.app/
 
 📁 **Repository:** https://github.com/chinaakther05/smart-home-client
 
@@ -91,7 +91,7 @@ A modern smart home management platform with real-time device control, automatio
 ### 📚 Book Haven
 An online book discovery and management platform where users can explore, review, and manage books efficiently.
 
-🔗 **Live Demo:** [https://your-book-haven-live-link.com](https://astonishing-parfait-83d6d0.netlify.app/)
+🔗 **Live Demo:** https://astonishing-parfait-83d6d0.netlify.app/
 
 📁 **Repository:** https://github.com/chinaakther05/book-haven-client2
 
@@ -101,7 +101,29 @@ An online book discovery and management platform where users can explore, review
 </tr>
 </table>
 
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
+### 💬 Desh Chat
+A real-time chat application that enables users to communicate instantly with a modern, responsive, and user-friendly interface.
+
+🔗 **Live Demo:** https://dash-chat-frontend.onrender.com/
+
+📁 **Repository:** https://github.com/somrat350/Dash-Chat
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO
+
+<img src="https://i.ibb.co/8L1k3GqB/Screenshot-104.png" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 </div>
+
 ---
 
 # 📊 GitHub Analytics
