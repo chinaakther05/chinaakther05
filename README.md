@@ -137,10 +137,6 @@ An online book discovery and management platform where users can explore, review
 
 ---
 
-# 🐍 Contribution Snake
-
-## 🐍 Contribution Snake
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -153,10 +149,21 @@ An online book discovery and management platform where users can explore, review
 
 </div>
 
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A855F7&height=120&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+China+Akther;Full+Stack+Developer;MERN+Stack+Enthusiast;Passionate+About+Web+Development;Always+Learning+New+Technologies" />
 
-### ⭐ Thanks for visiting my profile ⭐
+
+<p>
+🚀 Full Stack Developer | MERN Stack Enthusiast
+</p>
+
+<p>
+Building modern, responsive, and user-friendly web applications.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A855F7&height=120&section=footer"/>
 
 </div>
