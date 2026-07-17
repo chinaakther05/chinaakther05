@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:06B6D4&height=220&section=header&text=Hi%20There!%20I'm%20China%20Akther&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2F%20PERN%20Stack&descAlignY=55&descSize=18"/>
+<!-- Custom Photo Banner -->
+<img width="100%" src="./assets/banner.png" alt="China Akther - Full-Stack Developer"/>
 
 <!-- Typing Effect -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications;Learning+TypeScript+%2B+Prisma+%2B+PostgreSQL;Turning+Ideas+Into+Real+Projects)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications;Learning+TypeScript+%2B+Prisma+%2B+PostgreSQL;Turning+Ideas+Into+Real+Projects)
 
 <a href="https://www.linkedin.com/in/china-akther-a384b23a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:chinaakther05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -34,16 +34,16 @@ Currently sharpening my skills in **TypeScript**, **Prisma**, and **PostgreSQL**
 <div align="center">
 
 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&theme=dark&perline=4" />
 
 **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark&perline=3" />
 
 **Database & ORM**
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark&perline=3" />
 
 **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,netlify&theme=dark&perline=3" />
 
 </div>
 
@@ -88,6 +88,6 @@ Currently sharpening my skills in **TypeScript**, **Prisma**, and **PostgreSQL**
 
 📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 chinaakther05@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/china-akther-a384b23a2/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/chinaakther05)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:FF5733&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:A855F7&height=100&section=footer"/>
 
 </div>
