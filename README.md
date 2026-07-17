@@ -139,15 +139,19 @@ An online book discovery and management platform where users can explore, review
 
 # 🐍 Contribution Snake
 
-> **⚠️ এই অংশটি তখনই কাজ করবে যখন GitHub Actions দিয়ে Snake Animation সেটআপ করবে।**
+## 🐍 Contribution Snake
 
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/chinaakther05/chinaakther05/output/github-contribution-grid-snake.svg"/>
-</p>
-```
+## 🐍 Contribution Snake
 
----
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinaakther05/chinaakther05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinaakther05/chinaakther05/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/chinaakther05/chinaakther05/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 <div align="center">
 
