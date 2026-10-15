@@ -133,13 +133,21 @@ A real-time chat application that enables users to communicate instantly with a 
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=chinaakther05&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chinaakther05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
-<br><br>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinaakther05&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=chinaakther05&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=chinaakther05&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+
 
 </div>
+
+---
 ---
 
 # 🌐 Connect With Me
