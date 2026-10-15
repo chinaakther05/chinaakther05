@@ -182,13 +182,11 @@ React, Node.js, Express.js, MongoDB, Socket.IO
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+China+Akther;Full+Stack+Developer;MERN+Stack+Enthusiast;Passionate+About+Web+Development;Always+Learning+New+Technologies" />
 
 
-<p>
-🚀 Full Stack Developer | MERN Stack Enthusiast
-</p>
+<div align="center">
 
-<p>
-Building modern, responsive, and user-friendly web applications.
-</p>
+<p>💜 Thanks for visiting my profile!</p>
+
+<p>Let's connect and build something great together.</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A855F7&height=120&section=footer"/>
 
