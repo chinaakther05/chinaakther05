@@ -75,6 +75,26 @@ I love building modern, responsive, and scalable web applications using the late
 <tr>
 <td width="50%">
 
+### 🛠️ FixItNow
+
+A full-stack service management application built with modern web technologies.
+
+🔗 **Live Demo:** https://fixitnow-frontend-n26j.onrender.com/
+
+📁frontendGithub:
+    "https://github.com/chinaakther05/fixitnow-frontend",
+
+  backendGithub:
+    "https://github.com/chinaakther05/fixitnow-backend",
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma
+
+<img src="https://i.ibb.co.com/39yKWyZ5/Screenshot-128.png" alt="FixItNow Screenshot" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 ### 🏠 Smart Home
 A modern smart home management platform with real-time device control, automation, and a user-friendly dashboard.
 
@@ -88,24 +108,6 @@ A modern smart home management platform with real-time device control, automatio
 
 <td width="50%">
 
-### 📚 Book Haven
-An online book discovery and management platform where users can explore, review, and manage books efficiently.
-
-🔗 **Live Demo:** https://astonishing-parfait-83d6d0.netlify.app/
-
-📁 **Repository:** https://github.com/chinaakther05/book-haven-client2
-
-<img src="https://i.ibb.co/WNK0XtZ8/Screenshot-103.png" alt="Book Haven" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="100%">
 
 ### 💬 Desh Chat
 A real-time chat application that enables users to communicate instantly with a modern, responsive, and user-friendly interface.
