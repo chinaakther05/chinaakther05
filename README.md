@@ -82,82 +82,67 @@ Hi 👋 I'm China Akther, a passionate Full-Stack Web Developer from Bangladesh 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛠️ FixItNow
+<h3>🛠️ FixItNow</h3>
 
 A full-stack service management application built with modern web technologies.
 
-🔗 **Live Demo:** https://fixitnow-frontend-n26j.onrender.com/
+🔗 <b>Live Demo:</b> <a href="https://fixitnow-frontend-n26j.onrender.com/">View Project</a>
 
-📁frontendGithub:
-    "https://github.com/chinaakther05/fixitnow-frontend",
+📁 <b>Repositories:</b>
 
-  backendGithub:
-    "https://github.com/chinaakther05/fixitnow-backend",
+<a href="https://github.com/chinaakther05/fixitnow-frontend">Frontend</a> | <a href="https://github.com/chinaakther05/fixitnow-backend">Backend</a>
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma
+<b>Tech Stack:</b>
+
+Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma
 
 <img src="https://i.ibb.co.com/39yKWyZ5/Screenshot-128.png" alt="FixItNow Screenshot" width="100%"/>
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-### 🏠 Smart Home
-A modern smart home management platform with real-time device control, automation, and a user-friendly dashboard.
+<h3>🏠 Smart Home</h3>
 
-🔗 **Live Demo:** https://whimsical-gumdrop-90fcbc.netlify.app/
+A smart home management platform with device control, automation, and a user-friendly dashboard.
 
-📁 **Repository:** https://github.com/chinaakther05/smart-home-client
+🔗 <b>Live Demo:</b> <a href="https://whimsical-gumdrop-90fcbc.netlify.app/">View Project</a>
 
-<img src="https://i.ibb.co/BVjn7zVx/Screenshot-102.png" alt="Smart Home" width="100%"/>
+📁 <b>Repositories:</b>
+
+<a href="https://github.com/chinaakther05/smart-home-client">Frontend</a> | <a href="https://github.com/chinaakther05/smart-home-server">Backend</a>
+
+<b>Tech Stack:</b>
+
+React, JavaScript, CSS, HTML, Node.js, Express.js, MongoDB
+
+<img src="https://i.ibb.co/BVjn7zVx/Screenshot-102.png" alt="Smart Home Screenshot" width="100%"/>
 
 </td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-<td width="50%">
+<h3>💬 Desh Chat</h3>
 
+A real-time chat application that enables users to communicate instantly with a modern, responsive interface.
 
-### 💬 Desh Chat
-A real-time chat application that enables users to communicate instantly with a modern, responsive, and user-friendly interface.
+🔗 <b>Live Demo:</b> <a href="https://dash-chat-frontend.onrender.com/">View Project</a>
 
-🔗 **Live Demo:** https://dash-chat-frontend.onrender.com/
+📁 <b>Repository:</b> <a href="https://github.com/somrat350/Dash-Chat">GitHub</a>
 
-📁 **Repository:** https://github.com/somrat350/Dash-Chat
+<b>Tech Stack:</b>
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO
+React, Node.js, Express.js, MongoDB, Socket.IO
 
-<img src="https://i.ibb.co/8L1k3GqB/Screenshot-104.png" width="100%"/>
+<img src="https://i.ibb.co/8L1k3GqB/Screenshot-104.png" alt="Desh Chat Screenshot" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 </div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chinaakther05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinaakther05&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=chinaakther05&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-
-
-</div>
-
----
----
-
 # 🌐 Connect With Me
 
 <div align="center">
