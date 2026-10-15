@@ -31,16 +31,17 @@
 
 # 💻 About Me
 
-Hi 👋 I'm **China Akther**, a passionate **Full-Stack Developer** from **Bangladesh 🇧🇩**.
+Hi 👋 I'm China Akther, a passionate Full-Stack Web Developer from Bangladesh 🇧🇩.
 
-I love building modern, responsive, and scalable web applications using the latest technologies. I'm continuously learning, improving my skills, and building real-world projects.
+💻 I build responsive and user-friendly web applications using modern web technologies.
 
-- 🔭 Currently working on **Next.js Full Stack Projects**
-- 🌱 Learning **TypeScript, Prisma & PostgreSQL**
-- 💬 Ask me about **React, Next.js, Express.js & MongoDB**
-- ⚡ Fun Fact: **I debug better with coffee ☕**
-- 📫 Email: **chinaakther05@gmail.com**
+🌱 I'm continuously learning and working with Next.js, TypeScript, Prisma, and PostgreSQL.
 
+🚀 I enjoy building real-world projects and improving my problem-solving skills.
+
+🎯 My goal is to grow as a developer and build useful, scalable web applications.
+
+📫 Email: chinaakther05@gmail.com
 ---
 
 # 🚀 Tech Stack
