@@ -44,6 +44,14 @@ Hi 👋 I'm China Akther, a passionate Full-Stack Web Developer from Bangladesh 
 📫 Email: chinaakther05@gmail.com
 ---
 
+---
+
+# 🔭 Current Activities
+
+- 🌱 Learning and practicing **Next.js, TypeScript, Prisma, and PostgreSQL**.
+- 💻 Building full-stack web applications with modern technologies.
+- 🚀 Improving my coding skills through real-world projects.
+
 # 🚀 Tech Stack
 
 <div align="center">
